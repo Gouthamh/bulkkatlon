@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test005_BulkPATCH_IdValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1adb994-7fd5-4ee6-ad43-41c3d8cedbd0</testCaseGuid>
+</TestCaseEntity>

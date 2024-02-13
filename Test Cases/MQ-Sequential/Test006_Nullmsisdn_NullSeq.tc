@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test006_Nullmsisdn_NullSeq</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1fef7468-13c0-4b79-b2c7-b718bcf6e009</testCaseGuid>
+</TestCaseEntity>

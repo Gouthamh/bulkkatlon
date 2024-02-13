@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>testfile</name>
+   <tag></tag>
+   <containsHeaders>false</containsHeaders>
+   <csvSeperator>TAB</csvSeperator>
+   <dataFileGUID>2c111b3f-74a0-4cef-8f1b-02b5da9db8c8</dataFileGUID>
+   <dataSourceUrl>../groupid.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

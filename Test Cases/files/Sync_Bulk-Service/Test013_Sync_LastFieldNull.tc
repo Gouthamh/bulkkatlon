@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>keep two entries in file and keep last two fields null</description>
+   <name>Test013_Sync_LastFieldNull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d72d23d8-aeab-4153-9730-d095f50dbb89</testCaseGuid>
+</TestCaseEntity>

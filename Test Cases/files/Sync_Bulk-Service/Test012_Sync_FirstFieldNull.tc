@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Issue fixed</description>
+   <name>Test012_Sync_FirstFieldNull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cb13f24-1918-43e1-baf6-6d7367559f72</testCaseGuid>
+</TestCaseEntity>

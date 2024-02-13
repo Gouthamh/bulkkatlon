@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "DBA3C1D16C15FC978BD70D271D2213A0",
+  "keywordClasses": [
+    {
+      "name": "commandLineExecution.kubectlMonitorLogs",
+      "keywordMethods": [
+        {
+          "name": "ExecuteCMD",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

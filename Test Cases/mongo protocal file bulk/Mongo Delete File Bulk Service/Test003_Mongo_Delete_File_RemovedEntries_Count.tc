@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test003_Mongo_Delete_File_RemovedEntries_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2f95842-cee2-453d-9cc3-ec8d9bc90332</testCaseGuid>
+</TestCaseEntity>

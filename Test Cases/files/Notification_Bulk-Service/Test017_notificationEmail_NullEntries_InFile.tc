@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test017_notificationEmail_NullEntries_InFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7370749e-e459-41de-8ff4-e5a9d92be865</testCaseGuid>
+</TestCaseEntity>

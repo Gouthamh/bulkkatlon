@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>keep two entries in file and keep last two fields null</description>
+   <name>Test009_NotificationSMS_LastFieldNull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c1d436a-6941-48da-b42f-6d32ccf32022</testCaseGuid>
+</TestCaseEntity>

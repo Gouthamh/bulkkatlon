@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>file with 10 sucessful entries is sent</description>
+   <name>Test007_Post_SuccessEntries_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78df1c47-601f-4426-a849-09b37f3dcab2</testCaseGuid>
+</TestCaseEntity>

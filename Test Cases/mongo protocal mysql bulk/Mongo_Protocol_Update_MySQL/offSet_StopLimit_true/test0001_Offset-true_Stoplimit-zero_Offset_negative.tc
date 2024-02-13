@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test0001_Offset-true_Stoplimit-zero_Offset_negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec5e40af-5a9e-4317-aa6f-e86df7e66c76</testCaseGuid>
+</TestCaseEntity>

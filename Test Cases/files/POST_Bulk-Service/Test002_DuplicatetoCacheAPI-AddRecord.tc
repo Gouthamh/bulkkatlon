@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test002_DuplicatetoCacheAPI-AddRecord</name>
+   <tag></tag>
+   <comment>BoltonCode</comment>
+   <testCaseGuid>2e94b4e7-fe32-4ba8-af74-1f212f90ccb2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>0010_Mysql_limit-0_Extension-csv_header-false_count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b2e81d2-e359-4929-89cd-340d38b62e9e</testCaseGuid>
+</TestCaseEntity>

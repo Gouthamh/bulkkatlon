@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>oracel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>850b443e-4fa5-45f1-a672-82fc679556d7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c55a032d-8d4f-44ea-a810-2b0475bb3654</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c55a032d-8d4f-44ea-a810-2b0475bb3654</id>
+      <masked>false</masked>
+      <name>path123</name>
+   </variable>
+</TestCaseEntity>

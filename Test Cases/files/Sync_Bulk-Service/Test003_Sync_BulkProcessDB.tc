@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test003_Sync_BulkProcessDB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be37a5ad-6d49-4e91-b715-a38a527eeed7</testCaseGuid>
+</TestCaseEntity>

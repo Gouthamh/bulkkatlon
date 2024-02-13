@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Issue fixed</description>
+   <name>Test012_Post_FirstFieldNull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5e36851-983c-42c3-8f65-98f42b08551c</testCaseGuid>
+</TestCaseEntity>

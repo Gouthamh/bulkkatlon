@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Duplicate folder scenario. (upload, trigger, upload)
+{
+  &quot;msg&quot;:&quot;&quot;,
+  &quot;bulkId&quot;:&quot;1&quot;,
+  &quot;uploadDetails&quot;:[
+    {
+      &quot;FileName&quot;:[
+        &quot;C:\\Users\\basetdi\\Katalon Studio\\New_Bulk-ServiceAutomation\\Data Files\\Post_bulk1.csv&quot;],
+      &quot;msg&quot;:&quot;File uploaded successfully&quot;,
+      &quot;status&quot;:&quot;Successful&quot;
+    }],
+  &quot;status&quot;:&quot;&quot;
+}
+----
+{
+  &quot;response&quot;:&quot;Successful&quot;
+}
+----
+{
+  &quot;msg&quot;:&quot;File Alreday Uploaded and submit for processing&quot;,
+  &quot;bulkId&quot;:&quot;1&quot;,
+  &quot;uploadDetails&quot;:[
+  ],
+  &quot;status&quot;:&quot;Failure&quot;
+}</description>
+   <name>Test010_UploadFolder_TriggerDuplicate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c143776e-2ec4-46ed-853d-df617d31982d</testCaseGuid>
+</TestCaseEntity>

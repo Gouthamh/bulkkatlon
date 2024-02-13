@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Casetest0001_Offset-true_Stoplimit-zero_Offset_abovelimit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88fa05b3-d028-41e9-874e-407ca6e3fb8f</testCaseGuid>
+   <variable>
+      <defaultValue>['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']</defaultValue>
+      <description></description>
+      <id>e1538fa8-29f1-4c2e-8c6e-4b59df057b32</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

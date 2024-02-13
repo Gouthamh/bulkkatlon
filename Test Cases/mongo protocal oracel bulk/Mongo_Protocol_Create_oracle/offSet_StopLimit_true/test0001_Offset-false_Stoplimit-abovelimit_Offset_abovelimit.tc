@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test0001_Offset-false_Stoplimit-abovelimit_Offset_abovelimit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a4890a4-5475-40e5-886f-c9f8a1c99dbf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>keep two entries in file and keep last two fields null</description>
+   <name>Test013_PATCH_LastFieldNull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f14cc4fd-bbd3-4fc6-b22a-8a0d6f33cd53</testCaseGuid>
+</TestCaseEntity>

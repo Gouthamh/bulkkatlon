@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test004_PATCH_BulkProcessDB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7132b9c-25aa-4096-bf65-de8c2e88e9e1</testCaseGuid>
+</TestCaseEntity>

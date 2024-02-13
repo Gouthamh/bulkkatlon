@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>0003_IsHeaderEnable-false_SftpEnable-true</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d404e0b4-75a3-423a-b427-842483981924</testCaseGuid>
+</TestCaseEntity>

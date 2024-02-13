@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MongoDBPayload_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5fb09bc-ceb7-460f-89d2-ffdb87c36d36</testCaseGuid>
+</TestCaseEntity>

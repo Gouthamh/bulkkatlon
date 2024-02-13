@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>file with 10 sucessful entries is sent</description>
+   <name>Test003_NotificationSMS_SuccessEntries_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>910080e4-cf02-4c5b-9d47-a2db528007fd</testCaseGuid>
+</TestCaseEntity>

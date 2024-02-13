@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test017_Sync_Upload_NullID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8f2b527-2ea4-4226-9e9f-e0fb37da2828</testCaseGuid>
+</TestCaseEntity>

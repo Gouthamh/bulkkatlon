@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Issue fixed</description>
+   <name>Test018_NotificationEmail_FirstFieldNull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4eb5fe96-41a5-4f27-bc8e-744f2b02914d</testCaseGuid>
+</TestCaseEntity>

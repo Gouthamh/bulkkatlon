@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>scenario: upload, upload.
+outputs:
+{
+  &quot;msg&quot;:&quot;&quot;,
+  &quot;bulkId&quot;:&quot;1&quot;,
+  &quot;uploadDetails&quot;:[
+    {
+      &quot;FileName&quot;:[
+        &quot;C:\\Users\\basetdi\\Katalon Studio\\New_Bulk-ServiceAutomation\\Data Files\\Post_bulk1.csv&quot;],
+      &quot;msg&quot;:&quot;File uploaded successfully&quot;,
+      &quot;status&quot;:&quot;Successful&quot;
+    }],
+  &quot;status&quot;:&quot;&quot;
+}
+---------
+{
+  &quot;msg&quot;:&quot; File uploaded for processing&quot;,
+  &quot;bulkId&quot;:&quot;1&quot;,
+  &quot;uploadDetails&quot;:[
+  ],
+  &quot;status&quot;:&quot; File already uploaded with in the specified path&quot;
+}</description>
+   <name>Test014_Email_UploadFile_Duplicate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49d6dc32-7fcc-4d19-a24b-6ed1cb0d77dd</testCaseGuid>
+</TestCaseEntity>

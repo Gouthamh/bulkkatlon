@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test018_Sync_API_IncorrectBulkId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08dcab61-32f7-4131-87c1-e65fb40cf993</testCaseGuid>
+</TestCaseEntity>

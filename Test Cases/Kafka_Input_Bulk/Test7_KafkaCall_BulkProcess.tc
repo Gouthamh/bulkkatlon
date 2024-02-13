@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test7_KafkaCall_BulkProcess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cedbada8-12ab-4a3a-a52e-fa8ac1b8c50e</testCaseGuid>
+</TestCaseEntity>

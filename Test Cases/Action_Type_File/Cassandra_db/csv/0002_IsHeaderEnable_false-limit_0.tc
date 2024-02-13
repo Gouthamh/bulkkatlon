@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>0002_IsHeaderEnable_false-limit_0</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c33d74d-6341-497f-a9c8-79e1d077a87c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b1891ec4-80de-4cfd-a2a6-29288ac49f2c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7a191ba1-c6f9-4219-a753-a3c796109029</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b1891ec4-80de-4cfd-a2a6-29288ac49f2c</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7a191ba1-c6f9-4219-a753-a3c796109029</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+</TestCaseEntity>

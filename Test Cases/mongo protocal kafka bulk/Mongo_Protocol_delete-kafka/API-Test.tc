@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Precondition: Requests are 10 in number
+Bulk-Config for my-sql input type
+{
+    &quot;_id&quot; : ObjectId(&quot;6051dbeca8df5d00011aaabf&quot;),
+    &quot;ServiceName&quot; : &quot;mysql-post-bulk-service&quot;,
+    &quot;BulkID&quot; : 7,
+    &quot;BulkType&quot; : &quot;DB-MYSQL&quot;,
+    &quot;Action&quot; : {
+        &quot;Protocol&quot; : &quot;REST&quot;,
+        &quot;Method&quot; : &quot;POST&quot;,
+        &quot;EndPoint&quot; : &quot;http://dap.lab-cluster.devtestlab2.tecnotree.com/RetryEngine/createRetryRequest&quot;,
+        &quot;ResponsePath&quot; : &quot;&quot;,
+        &quot;ResponseSuccessValue&quot; : &quot;&quot;,
+        &quot;RetryPath&quot; : &quot;&quot;,
+        &quot;RetryCode&quot; : &quot;&quot;,
+        &quot;RequestFormat&quot; : {
+            &quot;serviceName&quot; : &quot;notifyESB&quot;,
+            &quot;errorCode&quot; : &quot;500&quot;,
+            &quot;requestPayload&quot; : {
+                &quot;notificationId&quot; : &quot;1911&quot;,
+                &quot;msisdn&quot; : 3,
+                &quot;emailTo&quot; : 2,
+                &quot;inputValue&quot; : {
+                    &quot;id&quot; : 0,
+                    &quot;Name&quot; : 1,
+                    &quot;Phone&quot; : 3,
+                    &quot;FirstName&quot; : 5,
+                    &quot;Altno&quot; : &quot;1234356&quot;,
+                    &quot;DataPlan&quot; : 4
+                },
+                &quot;shortCode&quot; : &quot;8001&quot;,
+                &quot;systemId&quot; : &quot;smppclient1&quot;
+            }
+        }
+    },
+    &quot;MySqlParameters&quot; : {
+        &quot;NodeId&quot; : &quot;2266&quot;,
+        &quot;SqlQuery&quot; : &quot;SELECT ID, NAME, EMAIL, MSISDN, DATAPlan, FirstName from Automation-Test&quot;,
+        &quot;FetchSize&quot; : &quot;4&quot;
+    },
+    &quot;_class&quot; : &quot;com.tecnotree.dap.bulk.document.BulkMasterConfigurationDocument&quot;
+}</description>
+   <name>API-Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43198408-ddc8-49e5-bef4-10758fb8b7e0</testCaseGuid>
+</TestCaseEntity>
