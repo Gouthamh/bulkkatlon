@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "6543A316471726DFC095805EBB9299B4",
+  "keywordFileContentHash": "18E30EE9F1797C6C8B718CF938798E7A",
   "keywordClasses": [
     {
       "name": "mySQL.mySqlFunction",
@@ -60,7 +60,7 @@
               }
             }
           ],
-          "javadoc": "/**\n\t * Send request and verify status code\n\t * @param request request object, must be an instance of RequestObject\n\t * @param expectedStatusCode\n\t * @return a boolean to indicate whether the response status code equals the expected one\n\t */"
+          "javadoc": "/**\r\n\t * Send request and verify status code\r\n\t * @param request request object, must be an instance of RequestObject\r\n\t * @param expectedStatusCode\r\n\t * @return a boolean to indicate whether the response status code equals the expected one\r\n\t */"
         },
         {
           "name": "CountTableEntries",
